@@ -1,0 +1,15 @@
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\obj\Debug\net7.0\BitrateCalculationExercise.csproj.AssemblyReference.cache
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\obj\Debug\net7.0\BitrateCalculationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\obj\Debug\net7.0\BitrateCalculationExercise.AssemblyInfoInputs.cache
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\obj\Debug\net7.0\BitrateCalculationExercise.AssemblyInfo.cs
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\obj\Debug\net7.0\BitrateCalculationExercise.csproj.CoreCompileInputs.cache
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\bin\Debug\net7.0\BitrateCalculationExercise.exe
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\bin\Debug\net7.0\BitrateCalculationExercise.deps.json
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\bin\Debug\net7.0\BitrateCalculationExercise.runtimeconfig.json
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\bin\Debug\net7.0\BitrateCalculationExercise.dll
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\bin\Debug\net7.0\BitrateCalculationExercise.pdb
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\obj\Debug\net7.0\BitrateCalculationExercise.dll
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\obj\Debug\net7.0\refint\BitrateCalculationExercise.dll
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\obj\Debug\net7.0\BitrateCalculationExercise.pdb
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\obj\Debug\net7.0\BitrateCalculationExercise.genruntimeconfig.cache
+C:\Users\Alen\Documents\Projects\BitrateCalculationExercise\obj\Debug\net7.0\ref\BitrateCalculationExercise.dll
